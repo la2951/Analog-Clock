@@ -25,4 +25,4 @@ A stylish **analog clock** built using **HTML, CSS, and JavaScript**. This proje
 Feel free to fork this project and improve it!  
 
 ---
-💡 *Made with ❤️ by [Your Name]*
+💡 *Made with ❤️ by Lakshya Agrawal
